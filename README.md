@@ -7,7 +7,7 @@
 </div>
 
 
-
+### :man_technologist: About Me :
 
 - 👋 Hi, I’m @ArthurAhiyarov
 - 👀 I’m interested in Blockchain, Solidity, Smart Contracts
