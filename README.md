@@ -1,3 +1,10 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/dAdPgP7VzcvCd7MS14/giphy.gif" width="100"/>
+</div>
+
+
+
+
 - 👋 Hi, I’m @ArthurAhiyarov
 - 👀 I’m interested in Blockchain, Solidity, Smart Contracts
 - 🌱 I’m currently learning Solidity
