@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/idu3qjQrEP3aaWNy44/giphy.gif" width="100"/>
-</div>
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -29,6 +25,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArthurAhiyarov)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAhiyarov&hide=typescript,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/idu3qjQrEP3aaWNy44/giphy.gif" width="100"/>
+</div>
 
 <!---
 ArthurAhiyarov/ArthurAhiyarov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
