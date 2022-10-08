@@ -6,7 +6,7 @@
 ### :man_technologist: About Me :
 
 - 👋 Hi, I’m @ArthurAhiyarov
-- 👀 I’m interested in Blockchain, Solidity, Smart Contracts, React
+- 👀 I’m interested Smart Contracts, web3 frameworks
 - 🌱 I’m currently learning Solidity, React
 - 💞️ I’m looking to collaborate on Blockchain projects
 - 📫 How to reach me arakhiyarov@gmail.com
